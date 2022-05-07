@@ -1,6 +1,6 @@
 # Meme-Generator
 Description:
-Our team developed a unique Meme/GIF generator that not only allows the user to view hilarious images, but additionally allows them to incorporate their own ideas into the meme. Clients may choose to either upload their own images or generate a random meme, furthermore they can create their own dialogue that can be dragged within the meme to the preferred location.
+Our team developed a unique Meme/GIF generator that not only allows the user to view hilarious images, but additionally allows them to incorporate their own ideas into the meme. Clients may choose to either upload their own images or generate a random meme, furthermore they can create their own dialogue that can be placed at the bottom or top of the meme.
 Our teams inspiration was to allow for a more interactive site that allows users to create more relatable content that can be shared with friends and family.
 
 Link to site: https://shogoofaa.github.io/Dynamic-Memes/
